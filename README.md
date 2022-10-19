@@ -5,7 +5,7 @@
 
 ## React App
 
-- ![Link](https://github.com/ridwanediallo/hello-react-front-end)
+ [Link](https://github.com/ridwanediallo/hello-react-front-end)
 
 ## Built With
 
