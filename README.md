@@ -1,24 +1,73 @@
-# README
+# Hello-react-front-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+> **Hello-react-front-end** is about building a api that render a random greeting.
 
-* Ruby version
+## React App
 
-* System dependencies
+ [Link](https://github.com/ridwanediallo/hello-react-front-end)
 
-* Configuration
+## Built With
 
-* Database creation
+- ![](https://img.shields.io/badge/Github-blueviolet)
+- ![](https://img.shields.io/badge/Ruby_On_Rails-red)
+- ![](https://img.shields.io/badge/Bootstrap-blueviolet)
 
-* Database initialization
+### Setup
+Clone the repository and change the directory to blog
 
-* How to run the test suite
+```
+  $ git clone https://github.com/ridwanediallo/hello-react-front-end.git
 
-* Services (job queues, cache servers, search engines, etc.)
+  $ cd hello-react-front-end
+```
 
-* Deployment instructions
+### Install
+Install all project dependencies by running the command below
 
-* ...
+```
+  $ bundle install
+```
+
+### Run the application
+```
+  $ ./bin/dev
+```
+
+### Visit the homepage of application
+```
+  $ http://localhost:3000/
+```
+
+### Check linter errors
+```
+  $ rubocop .
+```
+
+## Author 1
+
+👤 **Ridwan**
+
+- GitHub: [@githubridwan](https://github.com/ridwanediallo)
+- Twitter: [@twitterridwan](https://twitter.com/RidwaneD)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ridwan-diallo)
+
+## Setup
+
+If you wish to run the project locally, please do the following:
+
+- Clone the repository to your local machine. - **`git clone git@github.com:ridwanediallo/hello-react-rails.git`**
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ridwanediallo/hello-react-front-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
